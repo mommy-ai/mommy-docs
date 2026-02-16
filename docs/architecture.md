@@ -17,3 +17,4 @@
 - **MOMMY Engine** — Core chat logic with personality system prompt and conversation memory
 - **Market Advisor** — Fetches real-time price data and wraps it in motherly advice
 - **Config** — Environment-based configuration for API keys and model settings
+
