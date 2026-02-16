@@ -44,18 +44,6 @@ cp .env.example .env  # Add your API keys
 python -m src.mommy_engine
 ```
 
-## Tokenomics
-
-See [mommy-contracts](https://github.com/aihaowk/mommy-contracts) for full details.
-
-| Allocation | % |
-|-----------|---|
-| Liquidity Pool | 50% |
-| Community | 20% |
-| Development | 15% |
-| Marketing | 10% |
-| Team (locked) | 5% |
-
 ## Contributing
 
 We welcome contributions! See [CONTRIBUTING.md](https://github.com/aihaowk/mommy-core/blob/main/CONTRIBUTING.md) in mommy-core.
